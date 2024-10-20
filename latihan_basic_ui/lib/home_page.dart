@@ -165,8 +165,8 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(18),
                     child: Image.asset(
                       'assets/images/pp.JPG',
-                      height: height * 0.075,
-                      width: width * 0.15,
+                      height: 60,
+                      width: 60,
                       fit: BoxFit.cover,
                     ),
                   ),
